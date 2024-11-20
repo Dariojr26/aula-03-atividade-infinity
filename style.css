@@ -1,0 +1,30 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-image: url(arquivos/bg.svg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  text-align: center;
+  margin: 0;
+}
+
+div{
+  background-color: blue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#link{
+  background-color: red;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ 
+}
+
+#link a{
+color: burlywood;
+
+}
+
+#link p{
+
+  color: chartreuse;
+}
